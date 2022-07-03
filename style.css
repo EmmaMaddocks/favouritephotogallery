@@ -52,3 +52,12 @@ h2 {
     color: gray;
     padding-bottom: 20px;
 }
+
+p {
+    font-family: 'montserrat';
+    text-align: center;
+    color: gray;
+    padding-bottom: 20px;
+    font-size: 15pt;
+}
+
