@@ -9,7 +9,7 @@ body {
 
 
 .container {
-    width: 50vw;
+    width: 80vw;
     height: 100vh;
     position: absolute;
     top: 50%;
@@ -20,12 +20,13 @@ body {
     align-items: center;
     justify-items: center;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 img {
     place-content: center;
     object-position: center;
-    width: 800px;
+    width: 100vw;
     height 600px;
 }
 
@@ -44,8 +45,9 @@ button:hover {
 h1 {
     color: salmon;
     font-family: 'homemade apple', Times, serif;
-    font-size: 3.5em;
+    font-size: 2.5em;
     text-align: center;
+    line-height: 1.5;
 }
 
 
@@ -54,6 +56,7 @@ h2 {
     text-align: center;
     color: gray;
     padding-bottom: 20px;
+    font-size: 1em;
 }
 
 p {
@@ -61,7 +64,7 @@ p {
     text-align: center;
     color: gray;
     padding-bottom: 20px;
-    font-size: 15pt;
+    font-size: 1em;
 }
 
 footer {
